@@ -1,1 +1,0 @@
-# Laboratorium maszynowej analizy danych
