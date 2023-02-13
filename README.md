@@ -1,1 +1,1 @@
-# lmad
+# Laboratorium maszynowej analizy danych
